@@ -2,7 +2,7 @@
 
 The Alias fiend `a-fiend` manages shell aliases for you and prints reminders for recently added aliases.
 
-Install using `go get github.com/hugowetterberg/a-fiend` and add this to your shell profile:
+Install using `go get github.com/hugowetterberg/a-fiend` (or download the latest binary release) and add this to your shell profile:
 
 ```
 [[ -s "${HOME}/.a-fiend/source.sh" ]] && source $HOME/.a-fiend/source.sh
